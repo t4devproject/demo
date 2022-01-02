@@ -9,9 +9,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-/*
- * This controller class handles all the request come to User service.
- */
 
 @RestController
 @RequestMapping("/departments")
